@@ -1,5 +1,5 @@
 # Windows Security
-Repos for Windows Security Resources
+Repo for Windows Security Resources
 
 
 ## Subnetting
