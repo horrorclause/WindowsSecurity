@@ -1,2 +1,2 @@
-# WindowsSecurity
+# Windows Security
 Repos for Windows Security Resources
