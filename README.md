@@ -9,12 +9,26 @@ Repo for Windows Security Resources
   <li><a href="https://en.wikipedia.org/wiki/Comparison_of_Microsoft_Windows_versions">Comparison of Windows Versions</a></li>
 </ul>
 
+<br />
+
+### Renew Windows License
+If your Windows license is about to expire, open the command prompt *as administrator* and enter the command below:
+
+
+```
+slmgr -rearm
+```
+
+<br />
+
 ## :abacus:Subnetting
 
 <ul>
   <li><a href="https://networklessons.com/subnetting/subnetting-in-binary">Subnetting in Binary</a></li>
   <li><a href="https://jodies.de/ipcalc">IP Calculator</a></li>
 </ul>
+
+<br />
 
 ## :scroll:Basic CMD Commands for Windows
 ```
