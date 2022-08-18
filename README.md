@@ -22,6 +22,7 @@ Command 	Description
 -----------------------------
 Basics:
 -------
+arp   view the arp table and it's entries
 call 	calls a batch file from another one
 cd 	  change directory
 cls 	clear screen
