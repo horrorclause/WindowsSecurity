@@ -20,6 +20,11 @@ Repo for Windows Security Resources
 ```
 Command 	Description
 -----------------------------
+
+*Use "help" to ream more about specific cmd commands.
+
+Example: "help cd"
+
 Basics:
 -------
 arp   view the arp table and it's entries
