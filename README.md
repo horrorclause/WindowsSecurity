@@ -113,6 +113,7 @@ replace 	replace files
 rmdir / rd 	delete directory
 tree 	display folder structure graphically
 type 	display content of text files
+where gives the path of the file or service
 
 
 
