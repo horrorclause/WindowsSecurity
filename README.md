@@ -69,7 +69,8 @@ time 	display/edit the system time
 timeout 	wait any time
 title 	set title for prompt
 ver 	display operating system version
-w32tm 	setting time synchronisation/time server/time zone 
+w32tm 	setting time synchronisation/time server/time zone
+whoami  displays what user you are
 
 
 
