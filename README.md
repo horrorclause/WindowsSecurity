@@ -35,9 +35,14 @@ slmgr -rearm
 Command 	Description
 -----------------------------
 
-*Use "help" to ream more about specific cmd commands.
+*Use "help" to read more about specific cmd commands.
 
 Example: "help cd"
+
+*You can also use "/?" if "help does not work.
+
+Example: "ping /?"
+
 
 Basics:
 -------
