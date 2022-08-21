@@ -9,6 +9,17 @@ Repo for Windows Security Resources
   <li><a href="https://en.wikipedia.org/wiki/Comparison_of_Microsoft_Windows_versions">Comparison of Windows Versions</a></li>
 </ul>
 
+### What is a Fully Qualified Domain Name (FQDN)?:
+
+<ul>
+  <li><a href="https://www.hostinger.com/tutorials/fqdn">Breakdown of a Fully Qualified Domain</a></li>
+</ul>
+
+<br />
+
+![image](https://user-images.githubusercontent.com/10188810/185796113-31fa9e5c-b826-4721-b5a4-f175260adc13.png)
+
+
 <br />
 
 ### Renew Windows License
