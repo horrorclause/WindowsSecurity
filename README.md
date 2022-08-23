@@ -36,6 +36,7 @@ slmgr -rearm
 
 <ul>
   <li><a href="https://www.cloudflare.com/learning/dns/dns-records/">What are DNS Records?</a></li>
+  <li><a href="https://www.cloudflare.com/learning/dns/dns-security/">More About DNS Security</a></li>
   <li><a href="https://www.cloudflare.com/learning/dns/dns-records/dns-a-record/">What is an "A" Record?</a></li>
   <li><a href="https://www.cloudflare.com/learning/dns/dns-records/dns-aaaa-record/">What is an "AAAA" Record?</a></li>
   <li><a href="https://www.cloudflare.com/learning/dns/dns-records/dns-ptr-record/">What is a "PTR" Record?</a></li>
