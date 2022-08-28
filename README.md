@@ -58,6 +58,19 @@ slmgr -rearm
   <li><a href="https://jodies.de/ipcalc">IP Calculator</a></li>
 </ul>
 
+### Private IP Ranges
+
+```
+Class A IP addresses.
+Configurations range from 10.0.0.0 to 10.255.255.255. This class is for large networks and has 8 bits for the network and 24 bits for hosts.
+
+Class B IP addresses.
+Configurations range from 172.16.0.0 to 172.31.255.255. This class is for medium networks and has 16 bits for the network and 16 bits for hosts.
+
+Class C IP addresses.
+Configurations range from 192.168.0.0 to 192.168.255.255. This class is for smaller networks and has 24 bits for the network and 8 bits for hosts.
+```
+
 <br />
 
 ## :scroll:Basic CMD Commands for Windows
