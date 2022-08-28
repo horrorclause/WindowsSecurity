@@ -53,6 +53,7 @@ slmgr -rearm
 ## :abacus:Subnetting
 
 <ul>
+  <li><a href="https://docs.netgate.com/pfsense/en/latest/network/cidr.html">Understanding CIDR Subnet Mask Notation</a></li>
   <li><a href="https://networklessons.com/subnetting/subnetting-in-binary">Subnetting in Binary</a></li>
   <li><a href="https://jodies.de/ipcalc">IP Calculator</a></li>
 </ul>
