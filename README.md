@@ -23,8 +23,13 @@ Repo for Windows Security Resources
 <br />
 
 ### Renew Windows License
-If your Windows license is about to expire, open the command prompt *as administrator* and enter the command below:
+If your Windows license is about to expire, open the command prompt *as administrator* and enter the command below to check the status of your license:
 
+```
+slmgr -dlv
+```
+
+If your license needs to be renewed, type the following command into the administrator command prompt:
 
 ```
 slmgr -rearm
