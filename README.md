@@ -9,6 +9,12 @@ Repo for Windows Security Resources
   <li><a href="https://en.wikipedia.org/wiki/Comparison_of_Microsoft_Windows_versions">Comparison of Windows Versions</a></li>
 </ul>
 
+### Learning Powershell Scripting
+
+<ul>
+  <li><a href="https://www.youtube.com/c/JohnHammond010/search?query=powershell">John Hammond's Powershell Series</a></li>
+</ul>
+
 ### What is a Fully Qualified Domain Name (FQDN)?:
 
 <ul>
