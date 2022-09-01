@@ -15,6 +15,12 @@ Repo for Windows Security Resources
   <li><a href="https://www.youtube.com/c/JohnHammond010/search?query=powershell">John Hammond's Powershell Series</a></li>
 </ul>
 
+### Sysnternals
+
+<ul>
+  <li><a href="https://docs.microsoft.com/en-us/sysinternals/downloads/">Repository of Sysinternals Tools</a></li>
+</ul>
+
 ### What is a Fully Qualified Domain Name (FQDN)?:
 
 <ul>
